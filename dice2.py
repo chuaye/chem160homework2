@@ -17,3 +17,4 @@ for i in range(ntrials):
         player1wins=player1wins+1
 ratio=player1wins/ntrials
 print(ratio)
+#This improves the fairness since its closer to 50% than before.

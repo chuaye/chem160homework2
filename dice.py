@@ -15,3 +15,4 @@ for i in range(ntrials):
         player1wins=player1wins+1
 ratio=player1wins/ntrials
 print(ratio)
+#This game is unfair, Player1 usually wins. The winning probably is about 1-2% higher than 50%.
